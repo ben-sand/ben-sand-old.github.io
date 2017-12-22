@@ -3,8 +3,12 @@ title: Ben Sand
 description: York University, Department of Economics.
 show_downloads: false
 google_analytics:
+# Site menu settings
 menu:
-   - text: "Page A"
-     href: page_a.html
-   - text: "Page B"
-     href: page_b.html
+  - title: "Blog"
+    url: "/blog"
+  - title: "Documentation"
+    url: "/documentation"
+  - title: "Support"
+    url: "/support"
+# End
