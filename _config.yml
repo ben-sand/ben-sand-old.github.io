@@ -1,5 +1,10 @@
 theme: jekyll-theme-slate
 title: Ben Sand
 description: York University, Department of Economics.
-show_downloads: true
+show_downloads: false
 google_analytics:
+menu:
+   - text: "Page A"
+     href: page_a.html
+   - text: "Page B"
+     href: page_b.html
