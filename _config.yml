@@ -3,4 +3,5 @@ title: Ben Sand
 email: bmsand@yorku.ca
 description: York University, Department of Economics.
 show_downloads: false
-
+include: 
+  - _include
